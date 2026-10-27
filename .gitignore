@@ -1,0 +1,15 @@
+# Visual Studio ki apni files
+.vs/
+*.user
+*.suo
+*.VC.db
+*.opendb
+
+# Build ka output (exe aur temporary files)
+x64/
+x86/
+Debug/
+Release/
+
+# vcpkg ki download ki hui libraries
+vcpkg_installed/

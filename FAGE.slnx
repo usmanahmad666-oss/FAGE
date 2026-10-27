@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path="vcpkg.json" />
+  </Folder>
+  <Project Path="FAGE.vcxproj" Id="827e5ac7-56a0-4b5f-a157-9a8854d3fb4b" />
+</Solution>
